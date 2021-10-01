@@ -1,0 +1,17 @@
+C:\Projects\Pets\bin\Debug\netcoreapp3.1\Pets.exe
+C:\Projects\Pets\bin\Debug\netcoreapp3.1\Pets.deps.json
+C:\Projects\Pets\bin\Debug\netcoreapp3.1\Pets.runtimeconfig.json
+C:\Projects\Pets\bin\Debug\netcoreapp3.1\Pets.runtimeconfig.dev.json
+C:\Projects\Pets\bin\Debug\netcoreapp3.1\Pets.dll
+C:\Projects\Pets\bin\Debug\netcoreapp3.1\Pets.pdb
+C:\Projects\Pets\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Projects\Pets\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\Pets\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Projects\Pets\obj\Debug\netcoreapp3.1\Pets.csprojAssemblyReference.cache
+C:\Projects\Pets\obj\Debug\netcoreapp3.1\Pets.csproj.CoreCompileInputs.cache
+C:\Projects\Pets\obj\Debug\netcoreapp3.1\Pets.AssemblyInfoInputs.cache
+C:\Projects\Pets\obj\Debug\netcoreapp3.1\Pets.AssemblyInfo.cs
+C:\Projects\Pets\obj\Debug\netcoreapp3.1\Pets.csproj.CopyComplete
+C:\Projects\Pets\obj\Debug\netcoreapp3.1\Pets.dll
+C:\Projects\Pets\obj\Debug\netcoreapp3.1\Pets.pdb
+C:\Projects\Pets\obj\Debug\netcoreapp3.1\Pets.genruntimeconfig.cache
